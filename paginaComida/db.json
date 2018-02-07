@@ -1,0 +1,8 @@
+{"comida":[
+{
+   "id": 1,
+   "nombre": "Arroz",
+   "ingredientes": ["agua", "arroz"],
+   "preparacion": "Calentar agua, meter arroz y ya jaj"
+}
+]}
